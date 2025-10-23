@@ -1,6 +1,6 @@
 CC:=latexmk
 OPTIONS:=-pdf --shell-escape
-TARGET:=main
+TARGET:=2025-10-pleyer-project-idea
 
 all:
 	$(CC) $(OPTIONS) $(TARGET)

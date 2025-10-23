@@ -1,0 +1,13 @@
+*.aux
+*.bbl
+*.blg
+*.dvi
+*.fdb_latexmk
+*.log
+*.out
+*.pdf
+*.fls
+*.toc
+
+pred-prey/target
+pred-prey/Cargo.lock
